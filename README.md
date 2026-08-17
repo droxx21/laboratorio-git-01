@@ -7,3 +7,5 @@ Familiarizarse con Git y GitHub, el control de versiones y las herramientas bás
 ## Instructivo oficial
 Esta práctica se desarrolla siguiendo el instructivo oficial de GitHub:
 https://docs.github.com/en/get-started/start-your-journey
+## Conceptos aprendidos
+Durante esta práctica se están aprendiendo conceptos fundamentales de Git y GitHub, como repositorios, commits, ramas y Pull Requests, los cuales permiten llevar un control organizado de los cambios y facilitar el trabajo colaborativo.
